@@ -1,6 +1,6 @@
 # gCookies
 
-gCookies is implementing Salmon Cookies project from Code Fellows 201 Class but utilizing Gatsby.js to do so. The link for the problem domain for Salmon Cookies lives here: [Salmon Cookies Domain](https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/). The final informatin for the lab lives here: [Salmon Cookies](https://codefellows.github.io/code-201-guide/curriculum/class-09/lab/).
+gCookies is implementing Salmon Cookies project from Code Fellows 201 Class but utilizing Gatsby.js to do so. The link for the problem domain for Salmon Cookies lives here: [Salmon Cookies Domain](https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/). The final information for the lab lives here: [Salmon Cookies](https://codefellows.github.io/code-201-guide/curriculum/class-09/lab/).
 
 ## Authors
 
